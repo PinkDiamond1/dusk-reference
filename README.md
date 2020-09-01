@@ -9,10 +9,3 @@ Dusk Network makes use of a decentralized and privacy-oriented digital currency 
 
 ## Introduction
 This repository has been created to host the reference documentation and released code modules. Golang is the language of choice for the reference implementation of Dusk Network. Due to our strict security requirements, the implementation is developed in private repositories and will be made public on module-by-module basis after passing a security audit.
-
-## Development Timeline
-Release | Estimated Release Date
----|---
-Devnet|Late Q4 2018
-Testnet|Late Q1 2019
-Mainnet|Q2 2019
